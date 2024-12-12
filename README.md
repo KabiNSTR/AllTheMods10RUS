@@ -6,4 +6,4 @@
 
  Он будет очень благодарен!
 
-#[СКАЧАТЬ](https://github.com/KabiNSTR/AllTheMods-RUS-/releases/download/rus/en_us.snbt)
+# [СКАЧАТЬ](https://github.com/KabiNSTR/AllTheMods-RUS-/releases/download/rus/en_us.snbt)
